@@ -9,7 +9,7 @@ gyp==0.1
 html5lib==0.999
 itsdangerous==1.1.0
 Jinja2==2.10.3
-lxml==3.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 mercurial==3.7.3
 numpy==1.16.0
